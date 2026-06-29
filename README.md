@@ -1,5 +1,4 @@
 # task-manager
-# Task Manager
 
 A simple, secure task management web app built with Django. Users can sign up, log in, and manage their own personal to-do list — create, edit, mark complete, and delete tasks.
 
